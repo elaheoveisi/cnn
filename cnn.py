@@ -16,6 +16,7 @@ from scipy import signal
 import mne
 from mne.preprocessing import ICA
 
+
 # Set seed
 seed = 42
 np.random.seed(seed)
